@@ -30,16 +30,17 @@ h1 {
 
 .bottom-cloud {
   position: absolute;
-  left: 400px;
+  right: 75%;
   bottom: 300px;
 }
 
 .top-cloud {
   position: absolute;
-  right: 400px;
+  right: 25%;
   top: 50px;
 }
 
 .skyline {
   position: relative;
 }
+
